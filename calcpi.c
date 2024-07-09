@@ -1,3 +1,6 @@
+// GRR19891218 Carlos Matheus
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
